@@ -12,17 +12,8 @@ img.badge {
   box-shadow: 0 -2px 4px rgba(  0,   0,   0, 0.2) inset,
               0  3px 3px rgba(255, 255, 255, 0.6) inset,
               0  1px 5px rgba(  0,   0,   0, 0.8);
-  transition-duration:1s;
-  transition-duration:1s;
   display: inline-block;
   }
-  
-  img.badge:hover
-{
-
-  #transform: rotate(30deg);
-
-}
 
 .text1 {
 
@@ -31,9 +22,9 @@ img.badge {
   color: #dc006c;
   margin-right: -50px;
   margin-left: 2vw;
-  transform: rotateY(180deg);/* using Prefix free */
-  display: inline-block;/* required for transform */
-  z-index: 10;/* stack 1st word on top */
+  transform: rotateY(180deg);
+  display: inline-block;
+  z-index: 10;
 
 
   text-transform: uppercase;
@@ -48,17 +39,16 @@ img.badge {
 
 
 .text2 {
-
   font-size: 92px;
   padding: 10px 50px;
-color: #2c2c2c;
-display: inline-block;
-    letter-spacing: .05em;  
+  color: #2c2c2c;
+  display: inline-block;
+  letter-spacing: .05em;  
     
   font-size: 9vw;
-    text-shadow: 
-      4px 4px 0px #fffff8, 
-      7px 7px 0px rgba(0, 0, 0, 0.2);
+  text-shadow: 
+    4px 4px 0px #fffff8, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
 }
 
 
