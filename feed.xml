@@ -5,9 +5,139 @@
     <description>A Jekyll theme for content-rich sites</description>
     <link>/</link>
     <atom:link href="https://kapxtrix.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Aug 2019 15:48:57 -0400</pubDate>
-    <lastBuildDate>Mon, 12 Aug 2019 15:48:57 -0400</lastBuildDate>
+    <pubDate>Sun, 08 Sep 2019 10:07:49 -0400</pubDate>
+    <lastBuildDate>Sun, 08 Sep 2019 10:07:49 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Pronaukowi naukowi denialiści, cz. 3</title>
+        <description>&lt;p&gt;&lt;em&gt;To jest trzecia część wpisu omawiającego pracę Karen Kovaki na temat denializmu naukowego, część pierwszą można przeczytać &lt;a href=&quot;https://kapxtrix.github.io/articles/19/pronaukowi-naukowi-denialisci-cz-1/&quot;&gt;tutaj&lt;/a&gt;, a drugą &lt;a href=&quot;https://kapxtrix.github.io/articles/19/pronaukowi-naukowi-denialisci-cz-2/&quot;&gt;tutaj&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;akapit&quot;&gt;K&lt;/span&gt;aren Kovaka (2019) wśród nieporozumień dotyczących natury nauki mogących wpływać na odrzuceń ustaleń nauk o klimacie wyróżnia trzy, którym poświęca w swojej publikacji więcej miejsca. Nie oznacza to jednak — jak zaznacza — że są to jedyne albo nawet najważniejsze spośród takich nieporozumień. Akurat te postanowiła po prostu opisać, aby dostarczyć pełniejszego obrazu tego, jak mogą one być wykorzystywane.&lt;/p&gt;
+
+&lt;p&gt;Pierwszym rozważanym typem nieporozumień są nieporozumienia na temat obiektywności. Kovaka wymienia tutaj kilka badań, które wskazują przykładowo, że ludziom wydaje się, że naukowcy nie korzystają w badaniach z wyobraźni i kreatywności, ponieważ kłóciłoby się to z obiektywnością (Liang et al. 2006), a także nie zdają sobie sprawy z tego, że interpretacje obserwacji naukowych są zależne od teoretycznych założeń przyjętych przez badacza (Lederman et al. 2002). Kovaka opisuje też pokrótce, że w popularnej świadomości dominuje pewna wyidealizowana wizja nauki jako czegoś wolnego od wartości (&lt;em&gt;value-free&lt;/em&gt;), prowadząca do wniosków, że zawsze gdy jakiekolwiek pozanaukowe wartości — przykładowo kulturowe lub społeczne — wkradają się do naukowego rozumowania, jakakolwiek wartość wnioskowania zostaje utracona (Douglas 2009). Najpoważniejszą konsekwencją tego jest założenie, że dla wartościowości rezultatów, indywidualni badacze muszą być pozbawionymi interesów, bezstronnymi poszukiwaczami prawdy, których myślenie jest całkowicie wolne od uprzedzeń i myślenia życzeniowego. Problem jest oczywiście taki, że ludzie po prostu tacy nie są. O naukowej obiektywności napisano dużo&lt;label for=&quot;objectivity&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;objectivity&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Można o tym poczytać trochę np. &lt;a href=&quot;https://plato.stanford.edu/entries/scientific-objectivity/&quot;&gt;tutaj&lt;/a&gt;. &lt;/span&gt; i — jak to w filozofii — wiele jest na ten temat pytań i niejasności, niemniej panuje raczej dość powszechna zgoda, że poprawność naukowych rezultatów nie jest uzależniona od istnienia idealnych bezstronnych badaczy, a raczej jest wynikiem społecznych mechanizmów w naukowej społeczności, dzięki którym możliwe jest identyfikowanie i korygowanie błędów poznawczych, które dotyczą pojedynczych badaczy — poprzez przykładowo zapewnienie możliwości krytyki, podzielane przez badaczy standardy, replikację, etc. (Douglas 2009; Elliott 2017).&lt;/p&gt;
+
+&lt;p&gt;Dzięki temu nieporozumieniu stosunkowo łatwo jest rzucić cień podejrzeń na praktyki naukowe poprzez wskazanie na rolę wartości (prawdziwą bądź fałszywą) w danej dziedzinie, które to podejrzenia publice wydadzą się sensowne ze względu na kontrast pomiędzy ich wizją nauki, a naukową praktyką. Przykładowo częste jest więc ramowanie konsensusu jako czegoś, w co naukowcy &lt;em&gt;wierzą&lt;/em&gt; i korzystanie z tego, że słowo to konotuje pewną dozę subiektywizmu, a także sugerowanie uwikłania badań w politykę. Co jest tym łatwiejsze, że reagowanie na naukowe doniesienia w sprawie globalnego ocieplenia wymaga działań na poziomie polityki. Przykład, jaki podaje Kovaka jest taki:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Biorąc pod uwagę politykę współczesnej akademickiej i naukowej społeczności, nie jest nieprawdopodobne że większośc naukowców zaangażowanych w związane z klimatem badania wierzy w antropogeniczne globalne ocieplenie, a prawdopodobnie wierzy także, że stanowi ono problem. Niemniej jednak, nie ma konsensusu sięgającego 97%. Istnieje mocna i wyraźna mniejszość, a nauka jest daleka od ostatecznego ustalenia.&lt;label for=&quot;tuttle&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;tuttle&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;tłumaczenie moje &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ogólnie też media związane z denializmem często wykorzystują ramowanie do prezentowania niezgadzających się z konsensusem naukowców jako obiektywnych ekspertów, których przeciwstawiają badaczom pracującym dla IPCC sugerując, że ci z kolei są obciążeni błędami poznawczymi i własnymi interesami (Dunlap, &amp;amp; McCright 2011, p. 152). Inną pokrewną strategią jest próba sugerowania że finansowanie badań naukowych jest czymś wykluczającym obiektywność — biorąc pod uwagę, że badania wymagają funduszy, dostarczanych przykładowo przez państwo, stosunkowo łatwo jest ludziom wmówić, że naukowcy pracujący nad danym zagadnieniem są nieszczerzy i skorumpowani. W tego typu narracjach temat pieniędzy często się miesza zresztą z tym, że rezultaty badań nad klimatem mają pewne konsekwencje, które da się rozwiązać tylko poprzez działania polityczne. Coś takiego wykorzystuje do ramowania naukowców jako nieobiektywnych np. Janusz Korwin-Mikke w swoim niedawnym tekście:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jak nie wiadomo, o co chodzi – to znaczy, że chodzi o pieniądze. Na walce z Glociem&lt;label for=&quot;glociem&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;glociem&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;tj. „globalnym ociepleniem” &lt;/span&gt; robi się wielkie pieniądze: produkuje się te idiotyczne wiatraki i ogniwa fotowoltaiczne, ktoś na tym zarabia, masa urzędników bierze pensje i łapówki, by te wiatraki i ogniwa szerzyły się jak pożar na prerii… Politycy robią kariery, walcząc o Ocalenie Ludzkości przed Ciepłem – a Ocalona Ludzkość, niesłychanie wdzięczna politykom, sowicie im za to płaci.&lt;label for=&quot;korwin&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;korwin&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Ten i kolejne cytaty Korwina pochodzą &lt;a href=&quot;https://korwin-mikke.pl/blog/plaskoziemcy-i-antropoglociarze/&quot;&gt;stąd&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;i dalej:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Eko-naziści postępują dokładnie tak samo: kto się sprzeciwia teorii atropoglocia, jest usuwany z uczelni, blokowany na facebooku i w ogóle ośmieszany na wszelkie sposoby. Bo ci, co blokują i ośmieszają, są za to wynagradzani państwowymi posadami i „grantami”, przyznawanymi naukowcom. Oczywiście: tym właściwym.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Osoba uważająca, że nauki o klimacie są skorumpowane, a naukowcy zajmujący się tym tematem kierują się tylko politycznymi interesami, może więc odrzucać ich ustalenia nie narażając przy tym wizji samej siebie jako pronaukowej osoby, nawet jeżeli zdaje sobie sprawę z istnienia konsensusu na temat globalnego ocieplenia.&lt;/p&gt;
+
+&lt;p&gt;Poza nieporozumieniami nt. obiektywności, ludzie mają też dalekie od prawdy przekonania na temat metody naukowej. Kovaka wskazuje tu, że w szkole uczy się przede wszystkim tzw. metody hipotetyczno-dedukcyjnej, tj. takiej, w której naukowcy formułują hipotezy, a potem przeprowadzają eksperymenty aby potwierdzić ją bądź też odrzucić. Taka wizja prowadzi do dwóch szeroko udokumentowanych nieporozumień nt. nauki — po pierwsze sugeruje to, że istnieje jakaś jedna uniwersalna metoda naukowa, a po drugie że podstawową ścieżką do wiedzy naukowej są eksperymenty (Liang et al. 2006; Miller et al. 2010). Naukowcy natomiast działają raczej oportunistycznie, a nie posługują się jedną konkretną metodą (Currie 2014), tj. używają narzędzi i metod, które są akurat dla nich dostępne i pasują do danej dziedziny wiedzy. Ponadto, poza eksperymentami, bardzo istotne jest w dochodzeniu do naukowej wiedzy tworzenie modeli, które mówią nam coś o świecie.&lt;/p&gt;
+
+&lt;p&gt;Ponieważ nauki o klimacie w dużej mierze korzystają z modeli i symulacji jest to szczególnie istotne dla naszych rozważań. Modele są bowiem na tyle odmienne od empirycznych eksperymentów, że dla kogoś kto ma wizję nauki opierającej się tylko na tych drugich może być łatwe odrzucenie dziedziny nauki, która mocno z modeli korzysta i wyobrażanie sobie jej jako oderwanej od empirycznej rzeczywistości. I rzeczywiście, krytyka modeli klimatycznych to częsta taktyka ludzi chcących wywołać wątpliwości co do nauk o klimacie (McCright, &amp;amp; Dunlap 2000). Z mojego krótkiego przeglądu polskiego internetu wynika, że głownie dotyczy to zarzucania modelom nieprawidłowych przewidywań (na ogół fałszywie), czy też twierdzenia że modele nie uwzględniają czegoś, co jest istotne (na ogół tak naprawdę albo uwzględniają, albo istotne nie jest). Niemniej przewija się za tym też ogólne stawianie wyraźnej granicy między obserwacją a modelowaniem, jak np. w tej wypowiedzi Łukasza Warzechy:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Drugi zasadniczy fałsz to nazywanie faktem tego, co faktem nie jest. Trzeba oddzielić fakty, czyli rezultaty bezpośrednich obserwacji, od tego, jak te fakty łączymy oraz od wniosków. Strona klimatystyczna twierdzi, że wszystko to jest faktem. Nieprawda. Faktem są tylko te możliwe do zweryfikowania obserwacje, stanowiące materiał wyjściowy. Cała reszta to tylko praca hipotetyczna, modelowa, która nie jest faktem, jest tylko pewną teorią.&lt;label for=&quot;warzecha&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;warzecha&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Cytat pochodzi &lt;a href=&quot;https://www.energetyka24.com/warzecha-dopuszczam-antropogenicznosc-zmian-klimatu-wywiad&quot;&gt;stąd&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Kovaka jako przykład podaje natomiast pierwsze dwa punkty z &lt;a href=&quot;https://www.theblaze.com/news/2017/07/23/commentary-the-6-biggest-reasons-im-a-climate-change-skeptic-and-why-you-should-be-a-skeptic-too&quot;&gt;listy&lt;/a&gt; pewnego denialisty, która jego zdaniem miałaby uzasadniać tę pozycję. Te punkty skupiają się głównie właśnie na próbach pokazania, że modele klimatyczne prowadziły do rzekomo nieprawidłowych przewidywań, co rzeczywiście ma na celu rzucenie cienia wątpliwości na metodologię, niemniej nie prezentuje wprost dychotomii model-obserwacja, jak to ma miejsce w moim przykładzie powyżej.&lt;/p&gt;
+
+&lt;p&gt;Wreszcie ostatnie z rozważanych nieporozumień dotyczy ostateczności wiedzy naukowej. Kovaka tutaj opisuje pokrótce spostrzeżenia na temat tego, że nauka generalnie jest otwarta na rewizje i jej wartościowość opiera się głównie na mechanizmach samopoprawiania, dzięki którym możliwe jest wychwytywanie błędów. Mimo to jednak, jednocześnie, jest uprawniona do traktowania pewnych zagadnień jako do pewnego stopnia „zamkniętych” na potrzeby dalszych badań. Ponadto autorka zwraca w tym kontekście uwagę na rolę naukowców z odrębnym zdaniem, a także na to że w większości przypadków zaufanie konsensusowi jest dla nieekspertów najlepszym epistemicznym wyborem. Ogólnie sam temat omylności nauki czy też tego, jak wielką wagę należy przykładać do rożnicy zdań w społeczności naukowej jest dość skomplikowany, natomiast — pisze autorka — większość ludzi nie patrzy na to w taki zniuansowany sposób. Ludzie raczej widzą pewną różnicę pomiędzy naukowymi prawami, a hipotezami i teoriami, które ich zdaniem nie osiągnęły jeszcze takiego wsparcia dowodowego jak te pierwsze (Miller et al. 2010). Teorie i hipotezy widzą raczej jako coś, z czym można się po prostu nie zgodzić, a badaczy z odrębnym od dominującego zdaniem postrzegają raczej jako siłę napędową nauki i szansę przełomu — taka wizja niemal heroicznego sprzeciwu jest wspierana zresztą przez to, w jaki sposób naukowców pokazują podręczniki i jak ramowane są postaci takie jak Galileo, Mendel czy Darwin (Allchin 2003). Z takiej pozycji dość łatwo jest przyjąć pozycję, że powoływanie się na konsensus to rzekomo antynaukowe nieporozumienie, a osoba o odrębnym zdaniu to ostoja racjonalności. Takiego ramowania używa np. Korwin-Mikke:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kiedy Albert Einstein siedział już sobie bezpiecznie w USA, przyszli do Niego uczniowie, oznajmiając, że narodowo-socjalistyczni uczeni wyprodukowali w Niemczech „Brunatną Księgę”, w której 100 fizyków zamieściło artykuły, udowadniające, że Jego Teoria Względności jest do bani. Einstein uśmiechnął się i powiedział:&lt;br /&gt;
+„Gdyby była fałszywa – wystarczyłby jeden!”.&lt;br /&gt;
+[…]&lt;br /&gt;
+Otóż w nauce liczba artykułów jest bez znaczenia. Liczy się racja. Bez najmniejszego trudu prezentuję kilka niezbitych dowodów, że tezy zwolenników „antropogenicznego GlOcia” są fałszywe – ale to odbija się od nich, jak od betonowej ściany.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Podobnie częste jest kompletne zignorowanie tego, że konsensus jest po prostu reprezentacją stanowiska, które według naszej najlepszej wiedzy jest prawdziwe, a zamiast tego udawanie że polega on na „zamykaniu ust“:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Klimatyczni fanatycy twierdzą, że są rzecznikami nauki. Wręcz przeciwnie – oni są kimś na kształt religijnych hunwejbinów, którzy chcą zamknąć usta „innowiercom”. Jedną z najważniejszych cech nauki jest bowiem nieustanne kwestionowanie stawianych hipotez i próba ich falsyfikacji, a nie śpiewanie w chórze.&lt;br /&gt;
+Groza sytuacji polega na tym, że na podstawie jedynie hipotez, co kilka lat zresztą obalanych przez rzeczywistość, każe nam się płacić bardzo konkretne pieniądze na „walkę ze zmianami klimatu”, podczas gdy nie ma pewności ani co do tego, jak one naprawdę wyglądają, ani czy nasze działania cokolwiek zmienią. Ale cóż – to po prostu biznes. Zasilany naszą kasą.&lt;label for=&quot;warzecha2&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;warzecha2&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;Cytat pochodzi &lt;a href=&quot;https://www.se.pl/wiadomosci/polityka/lukasz-warzecha-klimatyczni-fanatycy-aa-xaVj-UjUJ-Fe4j.html&quot;&gt;stąd&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ogólnie więc, wydaje się, przekonania ludzi nt. omylności nauki, konsensusu czy też roli odrębnych głosów niespecjalnie pomagają w myśleniu o tym, jak nauka funkcjonuje w rzeczywistości. A nawet wręcz przeciwnie — pomagają w odrzuceniu niepasujących do światopogladu naukowych wniosków pod pozorem zachowania &lt;em&gt;otwartego umysłu&lt;/em&gt;, czy też &lt;em&gt;nieuciszania debaty&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Myślę, że można by tu było jeszcze rozwinąć różne inne nieporozumienia (np. na temat falsyfikowalności), ale Kovaka skupia się głównie na tych, więc też na tym poprzestanę. Nie jest to wszystko oczywiście kompletny dowód na istnienie zjawiska, o którym mowa (stąd zresztą po drodze w tym tekście wyraziłem kilka zastrzeżeń), a jedynie wskazanie na potencjalną lukę w wytłumaczeniu. Autorka wymienia więc też kilka przewidywań swojej teorii: (1) konserwatyści z dobrym zrozumieniem &lt;em&gt;natury nauki&lt;/em&gt; będą bardziej skłonni do zaakceptowania ustaleń nauk o klimacie, (2) na poglądy liberałów takie zrozumienie będzie miało dużo mniejszy wpływ, ponieważ liberałowie — odwrotnie niż konserwatyści — akceptują je ze względu na powody motywowane ich tożsamością polityczną (3) zrozumienie &lt;em&gt;natury nauki&lt;/em&gt; nie jest mocno skorelowane z wiedzą na temat faktów naukowych. To ostatnie jest generalnie podyktowane badaniami sugerującymi, że wraz ze wzrostem edukacji i wiedzy naukowej ludzie są bardziej spolaryzowani na temat klimatu i, najwyraźniej, im więcej mają wiedzy naukowej, tym lepiej wykorzystują do wspierania konkluzji, co do której chcieliby aby była prawdziwa. Na sprawdzenie tych przewidywań trzeba jednak jeszcze poczekać.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;&quot;&gt;***&lt;/p&gt;
+
+&lt;p&gt;Currie, A. (2014). &lt;em&gt;Marsupial lions and methodological omnivory: function, success and reconstruction in paleobiology&lt;/em&gt;. Biology &amp;amp; Philosophy, 30(2), 187–209. doi: 10.1007/s10539-014-9470-y&lt;/p&gt;
+
+&lt;p&gt;Douglas, H. (2009). &lt;em&gt;Science, policy, and the value-free ideal&lt;/em&gt;. Pittsburgh: University of Pittsburgh Press&lt;/p&gt;
+
+&lt;p&gt;Dunlap, R. E., Norgaard, R. B., &amp;amp; McCright, A., M. (2011). &lt;em&gt;Organized climate change denial&lt;/em&gt;. In The Oxford Handbook of Climate Change and Society (pp. 144–160). Oxford: Oxford University Press.&lt;/p&gt;
+
+&lt;p&gt;Elliott, K. C. (2017). &lt;em&gt;A tapestry of values: An introduction to values in science&lt;/em&gt;. Oxford: Oxford University
+Press&lt;/p&gt;
+
+&lt;p&gt;Kovaka, K. (2019). &lt;em&gt;Climate change denial and beliefs about science&lt;/em&gt;. Synthese. doi:10.1007/s11229-019-02210-z&lt;/p&gt;
+
+&lt;p&gt;Lederman, N. G., Abd-El-Khalick, F., Bell, R. L., &amp;amp; Schwartz, R. E. S. (2002). &lt;em&gt;Views of nature of science questionnaire: Toward valid and meaningful assessment of learners conceptions of nature of science&lt;/em&gt;. Journal of Research in Science Teaching, 39(6), 497–521. doi: 10.1002/tea.10034&lt;/p&gt;
+
+&lt;p&gt;Liang, L. L., Chen, S., Chen, X., Kaya, O. N., Adams, A. D., Macklin, M., &amp;amp; Ebenezer, J. (2006).
+&lt;em&gt;Student Understanding of Science and Scientific Inquiry (SUSSI): revision and further validation of
+an assessment instrument&lt;/em&gt;. In Annual conference of the National Association for Research in Science
+Teaching (NARST), San Francisco, CA (Vol. 122).&lt;/p&gt;
+
+&lt;p&gt;McCright, A. M., &amp;amp; Dunlap, R. E. (2000). &lt;em&gt;Challenging Global Warming as a Social Problem: An Analysis of the Conservative Movements Counter-Claims&lt;/em&gt;. Social Problems, 47(4), 499–522. doi: 10.1525/sp.2000.47.4.03x0305s&lt;/p&gt;
+
+&lt;p&gt;Miller, M. C. D., Montplaisir, L. M., Offerdahl, E. G., Cheng, F.-C., &amp;amp; Ketterling, G. L. (2010). &lt;em&gt;Comparison of Views of the Nature of Science between Natural Science and Nonscience Majors&lt;/em&gt;. CBE—Life Sciences Education, 9(1), 45–54. doi: 10.1187/cbe.09-05-0029&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Sep 2019 12:15:00 -0400</pubDate>
+        <link>https://kapxtrix.github.io/articles/19/pronaukowi-naukowi-denialisci-cz-3</link>
+        <guid isPermaLink="true">https://kapxtrix.github.io/articles/19/pronaukowi-naukowi-denialisci-cz-3</guid>
+        
+        
+        <category>denializm</category>
+        
+      </item>
+    
+      <item>
+        <title>Wyszperane w sieci, sierpień 2019</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/08/10/world/europe/sweden-immigration-nationalism.html&quot;&gt;Becker, J. &lt;em&gt;The Global Machine Behind the Rise of Far-Right Nationalism&lt;/em&gt;. The New York Times.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://yougov.co.uk/topics/politics/articles-reports/2019/08/14/left-wing-vs-right-wing-its-complicated&quot;&gt;Smith, M. &lt;em&gt;Left-wing vs right-wing: it’s complicated&lt;/em&gt;. YouGov.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://historyforatheists.com/2019/08/review-nathan-johnstone-the-new-atheism-myth-and-history/&quot;&gt;O’Neill, T. &lt;em&gt;Review – Nathan Johnstone “The New Atheism: Myth and History”&lt;/em&gt;. History for Atheist.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://theness.com/neurologicablog/index.php/false-memories-and-fake-news/&quot;&gt;Novella, S. &lt;em&gt;False Memories and Fake News&lt;/em&gt;. Neurologica.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://thepointmag.com/2019/examined-life/the-devils-advocates-advocate-agnes-callard&quot;&gt;Callard, A. &lt;em&gt;The Devil’s Advocate’s Advocate&lt;/em&gt;. The Point Magazine.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sootyempiric.blogspot.com/2019/08/on-unity-of-science-or-all-philosophy.html&quot;&gt;Bright, L. K. &lt;em&gt;On The Unity of Science, or - All Philosophy Is Political!&lt;/em&gt;. The Sooty Empiric.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rte.ie/culture/2019/0829/1071657-could-philosophy-save-ireland/&quot;&gt;Grant, R. &lt;em&gt;Could philosophy save Ireland?&lt;/em&gt; RTE.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blogs.cardiff.ac.uk/openfordebate/2019/08/26/how-to-vote-well/&quot;&gt;Ahlstrom-Vij, K. &lt;em&gt;How to vote well&lt;/em&gt;. Open For Debate.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phenomenalworld.org/metaresearch/impossible-to-be-fair&quot;&gt;Grant, C. &lt;em&gt;Is it impossible to be fair?&lt;/em&gt;. Phenomenal World.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2019/08/13/opinion/philosophers-petitions.html&quot;&gt;Callard, A. &lt;em&gt;Why Philosophers Shouldn’t Sign Petitions&lt;/em&gt;. The New York Times.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arcdigital.media/when-is-something-politicized-1ed58d633595&quot;&gt;Traldi, O. &lt;em&gt;When Is Something “Politicized”?&lt;/em&gt;. Arc Digital.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ineteconomics.org/perspectives/blog/ideology-is-dead-long-live-ideology&quot;&gt;Javdani, M., &amp;amp; Chang, H.-J. &lt;em&gt;Mohsen Javdani and Ha-Joon Chang&lt;/em&gt;. Institute for New Economic Thinking.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newstatesman.com/politics/education/2019/08/great-university-con-how-british-degree-lost-its-value&quot;&gt;Lambert, H. &lt;em&gt;The great university con: how the British degree lost its value&lt;/em&gt;. New Statesman.&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 08 Sep 2019 12:10:00 -0400</pubDate>
+        <link>https://kapxtrix.github.io/articles/19/wyszperane-w-sieci-sierpien-2019</link>
+        <guid isPermaLink="true">https://kapxtrix.github.io/articles/19/wyszperane-w-sieci-sierpien-2019</guid>
+        
+        
+        <category>wyszperane-w-sieci</category>
+        
+      </item>
     
       <item>
         <title>Wyszperane w sieci, lipiec 2019</title>
@@ -43,11 +173,11 @@
 
 &lt;p&gt;&lt;a href=&quot;http://nautil.us/blog/how-swarming-insects-act-like-fluids&quot;&gt;Cepelewicz, J. &lt;em&gt;How Swarming Insects Act Like Fluids&lt;/em&gt;. Nautilus.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://theconversation.com/when-tree-planting-actually-damages-ecosystems-120786&quot;&gt;Parr, K., Lehmann, C. _When tree planting actually damages ecosystems _. The Conversation.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/when-tree-planting-actually-damages-ecosystems-120786&quot;&gt;Parr, K., &amp;amp; Lehmann, C. &lt;em&gt;When tree planting actually damages ecosystems&lt;/em&gt;. The Conversation.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://theconversation.com/puberty-blocking-drugs-the-difficulties-of-conducting-ethical-research-120906&quot;&gt;Wilkinson, D., Savulescu, J. _Puberty-blocking drugs: the difficulties of conducting ethical research _. The Conversation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/puberty-blocking-drugs-the-difficulties-of-conducting-ethical-research-120906&quot;&gt;Wilkinson, D., &amp;amp; Savulescu, J. &lt;em&gt;Puberty-blocking drugs: the difficulties of conducting ethical research&lt;/em&gt;. The Conversation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://theconversation.com/what-exactly-is-a-disease-120622&quot;&gt;Mellor, D., Merali S. &lt;em&gt;What exactly is a disease?&lt;/em&gt;. The Conversation.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://theconversation.com/what-exactly-is-a-disease-120622&quot;&gt;Mellor, D., &amp;amp; Merali S. &lt;em&gt;What exactly is a disease?&lt;/em&gt;. The Conversation.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://replicationindex.com/2019/07/21/hidden-invalidity-of-personality-measures/&quot;&gt;Schimmack, U. &lt;em&gt;Hidden Invalidity of Personality Measures?&lt;/em&gt;. Replicability Index.&lt;/a&gt;&lt;/p&gt;
 
@@ -437,64 +567,6 @@ Research, Potsdam&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
         <category>krytyczne-myślenie</category>
         
         <category>polaryzacja</category>
-        
-      </item>
-    
-      <item>
-        <title>Wyszperane w sieci, kwiecień 2019</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://communemag.com/optimize-what/&quot;&gt;Wu, J. &lt;em&gt;Optimize What?&lt;/em&gt; Commune.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.symmetrymagazine.org/article/falsifiability-and-physics&quot;&gt;Francis, M. R. &lt;em&gt;Falsifiability and physics.&lt;/em&gt; Symmetry.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://4gravitons.wordpress.com/2019/04/19/the-black-box-theory-of-everything/&quot;&gt;von Hippel, M. &lt;em&gt;The Black Box Theory of Everything&lt;/em&gt;. 4 gravitons.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.econtalk.org/jacob-stegenga-on-medical-nihilism/&quot;&gt;&lt;em&gt;Jacob Stegenga on Medical Nihilism.&lt;/em&gt; EconTalk.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://aeon.co/essays/a-sophisticates-primer-on-empathy-and-its-limits&quot;&gt;Segal, E. &lt;em&gt;The case for empathy&lt;/em&gt;. Aeon.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thepointmag.com/2019/examined-life/is-philosophy-fight-club-agnes-callard&quot;&gt;Callard, A. &lt;em&gt;Is Philosophy Fight Club?&lt;/em&gt; The Point Magazine.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thepointmag.com/2019/politics/on-denialism&quot;&gt;Berg, A &amp;amp; Baskin, J. &lt;em&gt;Letter on Denialism.&lt;/em&gt; The Point Magazine.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.quantamagazine.org/new-turmoil-over-predicting-the-effects-of-genes-20190423/&quot;&gt;Shmahalo, O. &lt;em&gt;New Turmoil Over Predicting the Effects of Genes&lt;/em&gt;. Quanta Magazine.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://youarenotsosmart.com/2019/04/09/yanss-151-what-we-can-learn-about-our-own-beliefs-biases-and-motivated-reasoning-from-the-community-of-people-who-are-certain-the-earth-is-flat/&quot;&gt;McRaney, D. &lt;em&gt;What we can learn about our own beliefs, biases, and motivated reasoning from the community of people who are certain the Earth is flat&lt;/em&gt;. You Are Not So Smart.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://nautil.us/blog/the-problem-with-the-way-scientists-study-reason&quot;&gt;Altay, S. &lt;em&gt;The Problem with the Way Scientists Study Reason&lt;/em&gt;.  Nautilus.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://aeon.co/essays/an-eye-on-experiments-that-make-quantum-mechanics-visible&quot;&gt;Holmes, R. &lt;em&gt;Seeing the quantum&lt;/em&gt;. Aeon.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://junkyardofthemind.com/blog/2019/4/19/under-explored-epistemic-uses-of-the-imagination&quot;&gt;Hyde, M. &lt;em&gt;Under-explored epistemic uses of the imagination&lt;/em&gt;. The Junkyard.&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 01 May 2019 15:50:00 -0400</pubDate>
-        <link>https://kapxtrix.github.io/articles/19/wyszperane-w-sieci-kwiecien-2019</link>
-        <guid isPermaLink="true">https://kapxtrix.github.io/articles/19/wyszperane-w-sieci-kwiecien-2019</guid>
-        
-        
-        <category>wyszperane-w-sieci</category>
-        
-      </item>
-    
-      <item>
-        <title>Czy dogadałabyś się z Koreanką?</title>
-        <description>&lt;p&gt;&lt;span class=&quot;akapit&quot;&gt;R&lt;/span&gt;óżnice kulturowe w podejściu do różnych aspektów rozumowania, poznania czy też uzasadniania to stosunkowo młody obszar badań, wyłamujący się nieco z ubiegłowiecznej tendencji do traktowania kognitywnych aspektów jako kulturowych niezmienników (cf. Chomsky 1957). Tak jak pomimo pewnych punktów wspólnych (Curry, Mullins, &amp;amp; Whitehouse 2019) obserwujemy duże zróżnicowanie w podejściach do etyki (Flanagan 2016), tak można się spodziewać podobnego zróżnicowania w kwestiach dotyczących sposobów myślenia bądź uzasadniania.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 28 Apr 2019 16:00:00 -0400</pubDate>
-        <link>https://kapxtrix.github.io/articles/19/czy-dogadalabys-sie-z-koreanka</link>
-        <guid isPermaLink="true">https://kapxtrix.github.io/articles/19/czy-dogadalabys-sie-z-koreanka</guid>
-        
-        
-        <category>różnice-kulturowe</category>
-        
-        <category>ramowanie</category>
-        
-        <category>motywacje-argumentacyjne</category>
-        
-        <category>korea</category>
-        
-        <category>usa</category>
         
       </item>
     
